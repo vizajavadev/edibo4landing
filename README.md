@@ -1,5 +1,5 @@
-# hello-nuxt
-
+# EDIBO 4 Landing Page App
+### Based on Nuxt.JS
 ## Build Setup
 
 ```bash
